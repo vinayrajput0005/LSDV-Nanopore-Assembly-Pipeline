@@ -1,0 +1,15 @@
+name: lsdv_pipeline_env
+
+channels:
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - nanoplot
+  - minimap2
+  - samtools=1.19
+  - flye
+  - medaka
+  - ragtag
+  - quast
+  - seqkit
