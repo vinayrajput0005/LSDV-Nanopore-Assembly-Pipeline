@@ -444,19 +444,18 @@ and cite this repository.
 ---
 
 # License
+Copyright (c) 2026 Vinay Rajput
 
-Distributed under the MIT License.
+This software is provided for academic and research purposes only.
 
-See `LICENSE` for details.
+Commercial use, redistribution, modification, or incorporation into proprietary software is prohibited without prior written permission from the author.
 
 ---
 
 # Author
 
 **Dr. Vinay Rajput, PhD**  
-Computational Genomics and Bioinformatics
-
-National Chemical Laboratory (NCL), Pune, India
+National Institute of Virology, Pune, India
 
 ---
 
