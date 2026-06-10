@@ -13,6 +13,13 @@
 </div>
 
 ---
+## Pipeline Workflow
+
+<p align="center">
+  <img src="docs/workflow.png" alt="LSDV Nanopore Assembly Pipeline Workflow" width="100%">
+</p>
+
+**Figure 1.** Overview of the LSDV Nanopore Assembly Pipeline. Raw Oxford Nanopore sequencing reads undergo quality assessment using NanoPlot, sequential host and contaminant depletion (Human, Vero, and RSV), de novo genome assembly using Flye, consensus polishing with Medaka, reference-guided scaffolding with RagTag, coverage analysis, assembly quality assessment using QUAST, and automated report generation.
 
 ## Abstract
 
