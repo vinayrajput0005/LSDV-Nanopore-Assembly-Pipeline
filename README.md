@@ -1,6 +1,6 @@
-# LSDV Nanopore Assembly Pipeline
-
 <div align="center">
+
+# LSDV Nanopore Assembly Pipeline
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
